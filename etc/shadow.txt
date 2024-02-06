@@ -1,0 +1,3 @@
+root=123
+ahmed=zzz
+usr1=aaaa

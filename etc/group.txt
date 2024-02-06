@@ -1,0 +1,3 @@
+root=root:x:200
+ahmed=ahmed:x:202
+usr1=usr1:x:204

@@ -1,0 +1,7 @@
+
+File name: myfile
+File size: 0 bytes
+File extension: 
+File creation time: 2023-01-08 23:36:56
+File modified time: 2023-01-08 23:36:56
+permissions: 	. read,write,execute

@@ -1,0 +1,7 @@
+
+File name: file.pdf
+File size: 0 bytes
+File extension: .pdf
+File creation time: 2023-01-08 23:43:00
+File modified time: 2023-01-08 23:43:00
+permissions: 	. read,write,execute
